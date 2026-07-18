@@ -55,6 +55,9 @@ DRIFT_TERMS = [
     r"neon", r"cyberpunk", r"futuristic", r"glossy 3d", r"glassmorphism",
     r"purple.blue", r"steampunk", r"soviet", r"propaganda", r"霓虹",
     r"赛博朋克", r"未来主义", r"玻璃拟态", r"蒸汽朋克", r"苏联", r"宣传画",
+    r"wireframe globe", r"coordinate string", r"\bx:\s*\d", r"\by:\s*\d",
+    r"\bz:\s*\d", r"crosshair", r"calibration target", r"vaporwave grid",
+    r"scan.?line ornament", r"线框地球", r"坐标式小字", r"十字准星",
 ]
 
 NEGATIVE_MARKERS = re.compile(

@@ -133,6 +133,8 @@ Reject:
 - generic sepia vintage templates
 - cyberpunk, futuristic UI, glassmorphism, neon, glossy 3D, plastic surfaces
 - purple-blue technology palettes and decorative gradients
+- unrequested retro-digital ornaments such as wireframe globes, coordinate strings, crosshairs, calibration targets, horizon grids, and scan-line graphics
+- copying a reference image's subject, slogan, palette, or era codes when the user requested only its print process or layout logic
 - modern SaaS card walls, giant radii, pill navigation, glowing blobs
 - cluttered steampunk gears, brass pipes, steam machines
 - uniform noise, blur, vignette, or darkness that destroys readability

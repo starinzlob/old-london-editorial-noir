@@ -1,4 +1,4 @@
 interface:
   display_name: "Old London Editorial Noir"
-  short_description: "Create images and videos in editorial London noir"
-  default_prompt: "Use $old-london-editorial-noir to create a cinematic image or video in my signature editorial-noir style."
+  short_description: "Create tactile London-noir images, posters, and videos"
+  default_prompt: "Use $old-london-editorial-noir to create a tactile screen-printed poster, image, or video in my signature editorial-noir style."

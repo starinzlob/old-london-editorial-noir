@@ -55,6 +55,8 @@ Prioritize the subject’s expression, gesture, and lighting. Apply print textur
 
 Reserve clear title space. Use one dominant image, one headline zone, and a small information band. Avoid filling the frame with fake micro-copy.
 
+For a typography-led campaign poster, load `references/poster-workflow.md` from `SKILL.md`. Choose either monumental type windows or a solid-headline editorial composition; do not blend both by default.
+
 ### Advertisement
 
 Choose one period commercial voice and one product claim. Use strong display type, a product illustration, price or proof detail, and rules. Keep the advertised object recognizable.
@@ -80,7 +82,7 @@ After each generation:
 3. Check the first, second, and third visual reads.
 4. Zoom in to confirm halftone, paper, ink edges, and local misregistration are intentional.
 5. Check that the paper is not uniformly yellow and the shadows are not crushed.
-6. Check for accidental modern tech, steampunk clutter, propaganda geometry, gibberish type, and decorative landmarks.
+6. Check for accidental modern tech, steampunk clutter, propaganda geometry, gibberish type, decorative landmarks, and unrequested motifs inherited from references.
 7. Revise the smallest failing layer of the prompt. Do not rewrite a successful composition just to fix texture.
 
 ## 6. Reusable prompt skeleton

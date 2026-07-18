@@ -1,6 +1,6 @@
 ---
 name: old-london-editorial-noir
-description: Apply the Old London Editorial Noir visual system to image and video generation or editing. Use for illustrations, photographs, screen-printed campaign posters, monumental type-window layouts, covers, advertisements, logos, storyboards, title cards, motion graphics, collage B-roll, social videos, cinematic sequences, and bilingual subtitled videos when the user asks for this named style, a signature/core/personal style, an old British newspaper look, interwar London, editorial film noir, halftone newsprint, letterpress, engraving, fog, rain, or gaslight. Also use to restyle or audit visual prompts and generated media against this system. Preserve an existing product design system when present, and do not apply the style when the user explicitly requests another direction.
+description: Apply the Old London Editorial Noir visual system to image and video generation or editing. Use for illustrations, photographs, screen-printed campaign posters, monumental type-window layouts, covers, advertisements, logos, storyboards, title cards, motion graphics, social videos, cinematic sequences, and bilingual subtitled videos when the user asks for this named style, a signature/core/personal style, an old British newspaper look, interwar London, editorial film noir, halftone newsprint, letterpress, engraving, fog, rain, or gaslight. Also use to restyle or audit visual prompts and generated media against this system. Preserve an existing product design system when present, and do not apply the style when the user explicitly requests another direction.
 ---
 
 # Old London Editorial Noir
@@ -12,7 +12,7 @@ Create images and videos that feel like a preserved private London newspaper bro
 1. Read [references/canon.md](references/canon.md) completely before making visual decisions.
 2. For a still image, image edit, poster, cover, logo, or keyframe, also read [references/image-workflow.md](references/image-workflow.md).
 3. For a campaign poster, social launch graphic, screen-printed advert, or typography-led cover, also read [references/poster-workflow.md](references/poster-workflow.md).
-4. For animation, motion graphics, B-roll, title sequences, or finished video, also read [references/video-workflow.md](references/video-workflow.md).
+4. For animation, motion graphics, title sequences, or finished video, also read [references/video-workflow.md](references/video-workflow.md).
 5. For mixed work, establish the still-image system first, then translate it into motion.
 
 ## Build the style contract
@@ -20,7 +20,7 @@ Create images and videos that feel like a preserved private London newspaper bro
 Before generation, reduce the request to a compact internal contract:
 
 - **Story:** the subject, action, place, period, and emotional beat.
-- **Editorial role:** lead image, portrait, advertisement, archive plate, diagram, logo, title card, B-roll, or full sequence.
+- **Editorial role:** lead image, portrait, advertisement, archive plate, diagram, logo, title card, video scene, or full sequence.
 - **Hierarchy:** the first focal point, second read, and deliberate negative space.
 - **Material:** newsprint, letterpress, halftone, engraving, screen print, or a restrained mixture with a reason.
 - **Palette:** paper, primary ink, and no more than two limited accents.

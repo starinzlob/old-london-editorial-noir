@@ -41,7 +41,7 @@ Old London Editorial Noir 是一套可安装的 Codex Skill，用于让图片和
 
 - 指导静态图片、图像编辑、海报、封面、广告、Logo 和关键帧。
 - 提供“巨型字窗”和“实心标题”两套可复用的丝网印刷宣传海报工作流。
-- 指导分镜、动态图形、拼贴 B-roll、片头、完整视频和中英双语字幕。
+- 指导分镜、视频镜头、动态图形、片头、完整视频和中英双语字幕。
 - 把风格转化为明确的制作契约：叙事、层级、材质、色彩、光线、字体、运动和防跑偏规则。
 - 为图片和视频提供独立工作流，并附带确定性的提示词预检脚本。
 - 从参考图中分别提取构图、印刷材质、题材和时代符号，只继承用户真正指定的部分。
@@ -135,7 +135,7 @@ It does not solve the style with a brown “vintage” filter. It turns the visu
 
 - Directs still images, image edits, posters, covers, advertisements, logos, and keyframes.
 - Provides reusable monumental-type-window and solid-headline workflows for screen-printed campaign posters.
-- Directs storyboards, motion graphics, collage B-roll, title sequences, finished videos, and bilingual subtitles.
+- Directs storyboards, video scenes, motion graphics, title sequences, finished videos, and bilingual subtitles.
 - Converts the style into a concrete production contract: story, hierarchy, material, palette, light, type, motion, and drift guards.
 - Includes separate image and video workflows plus a deterministic prompt preflight script.
 - Separates a reference into structure, print material, subject motifs, and era codes, then inherits only what the user requested.

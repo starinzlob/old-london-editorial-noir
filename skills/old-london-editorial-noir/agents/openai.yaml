@@ -1,0 +1,4 @@
+interface:
+  display_name: "Old London Editorial Noir"
+  short_description: "Create images and videos in editorial London noir"
+  default_prompt: "Use $old-london-editorial-noir to create a cinematic image or video in my signature editorial-noir style."
